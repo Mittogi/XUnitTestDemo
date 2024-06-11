@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\Semester_5\\PRN212\\code\\XUnitTestNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99985C6C-17EF-4F11-B9DA-2CE4ABB56359}|PrimaryNumber\\MathHelper.csproj|d:\\study\\semester_5\\prn212\\code\\xunittestnumber\\primarynumber\\primarynumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99985C6C-17EF-4F11-B9DA-2CE4ABB56359}|PrimaryNumber\\MathHelper.csproj|solutionrelative:primarynumber\\primarynumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99985C6C-17EF-4F11-B9DA-2CE4ABB56359}|PrimaryNumber\\PrimaryNumber.csproj|d:\\study\\semester_5\\prn212\\code\\xunittestnumber\\primarynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99985C6C-17EF-4F11-B9DA-2CE4ABB56359}|PrimaryNumber\\PrimaryNumber.csproj|solutionrelative:primarynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimaryNumber.cs",
+              "DocumentMoniker": "D:\\study\\Semester_5\\PRN212\\code\\XUnitTestNumber\\PrimaryNumber\\PrimaryNumber.cs",
+              "RelativeDocumentMoniker": "PrimaryNumber\\PrimaryNumber.cs",
+              "ToolTip": "D:\\study\\Semester_5\\PRN212\\code\\XUnitTestNumber\\PrimaryNumber\\PrimaryNumber.cs",
+              "RelativeToolTip": "PrimaryNumber\\PrimaryNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:25:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\Semester_5\\PRN212\\code\\XUnitTestNumber\\PrimaryNumber\\Program.cs",
+              "RelativeDocumentMoniker": "PrimaryNumber\\Program.cs",
+              "ToolTip": "D:\\study\\Semester_5\\PRN212\\code\\XUnitTestNumber\\PrimaryNumber\\Program.cs",
+              "RelativeToolTip": "PrimaryNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:23:25.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
