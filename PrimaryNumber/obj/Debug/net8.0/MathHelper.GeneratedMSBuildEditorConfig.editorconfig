@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MathHelper
-build_property.ProjectDir = D:\study\Semester_5\PRN212\code\XUnitTestNumber\PrimaryNumber\
+build_property.ProjectDir = D:\study\Semester_5\SWT301\code\c#\XUnitTestNumber\PrimaryNumber\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

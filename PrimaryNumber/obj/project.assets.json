@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\study\\Semester_5\\PRN212\\code\\XUnitTestNumber\\PrimaryNumber\\MathHelper.csproj",
+      "projectUniqueName": "D:\\study\\Semester_5\\SWT301\\code\\c#\\XUnitTestNumber\\PrimaryNumber\\MathHelper.csproj",
       "projectName": "MathHelper",
-      "projectPath": "D:\\study\\Semester_5\\PRN212\\code\\XUnitTestNumber\\PrimaryNumber\\MathHelper.csproj",
+      "projectPath": "D:\\study\\Semester_5\\SWT301\\code\\c#\\XUnitTestNumber\\PrimaryNumber\\MathHelper.csproj",
       "packagesPath": "C:\\Users\\PHAT-CL\\.nuget\\packages\\",
-      "outputPath": "D:\\study\\Semester_5\\PRN212\\code\\XUnitTestNumber\\PrimaryNumber\\obj\\",
+      "outputPath": "D:\\study\\Semester_5\\SWT301\\code\\c#\\XUnitTestNumber\\PrimaryNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
